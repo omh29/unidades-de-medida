@@ -1,0 +1,42 @@
+/*Cambiar el padre*/
+html{
+      font-size: 24px;  
+}
+/*Establece la media del h1*/
+h1{
+    font-size: 16px;
+}
+/*Establece la media del h2*/
+h2{
+    font-size: 1rem;
+}
+/*Establece la media del h3*/
+h3{
+    font-size: 1.75rem;
+}
+/*Establece la media del h4*/
+h4{
+    font-size: 1.5rem;
+}
+/*Establece la media del h5*/
+h5{
+    font-size: 1.25rem;
+}
+/*Establece la media del h6*/
+h6{
+    font-size: 1.05rem;
+}
+/*Es una etiqueta que indica el tamaño y color del rectangulo base a las etiquetas puestas*/
+.contenedor{
+    width: 70%;
+    height: 400px;
+    background-color: aqua;
+    margin: 30px auto;
+}
+/*Es una etiqueta que indica el tamaño y color del rectangulo base a las etiiquetas puestas */
+.hijo{
+    width: 1vw;
+    height: 50vw;
+    background-color: blueviolet;
+    margin: auto;
+}
